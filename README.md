@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# expense-tracker" 
-<p align="center"><img src="https://github.com/Asem130/QuizApp/assets/97855100/113b9eea-fb47-4df1-8180-80ac99645fe7" width="370" >
+<p align="center"><img src="![Screenshot_1689432524](https://github.com/Asem130/expense-tracker/assets/97855100/398446e8-313b-45eb-a871-6c62d9efb202)
+" width="370" >
   
 </p>
 <p align="center"><img src="https://github.com/Asem130/QuizApp/assets/97855100/03f0fa56-429e-4ab9-89b6-7279cf1e6cc9" width="370" >
