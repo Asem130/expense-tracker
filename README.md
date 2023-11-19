@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center"><img src="https://github.com/Asem130/expense-tracker/assets/97855100/4f95c2d1-c018-490d-a078-330e97b0a65b" width="370" >
   
 </p>
-<p align="center"><img src="https://github.com/Asem130/QuizApp/assets/97855100/03f0fa56-429e-4ab9-89b6-7279cf1e6cc9" width="370" >
+<p align="center"><img src="![Screenshot_1689432602](https://github.com/Asem130/expense-tracker/assets/97855100/1c6138c3-8d8c-422d-b543-3f77d6cdfa0c)
+" width="370" >
 <img src="https://github.com/Asem130/QuizApp/assets/97855100/d06dbbf2-5102-4551-8ff2-82a3b244bb7e)" width="370" >
   
 </p>
