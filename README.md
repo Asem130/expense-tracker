@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 <p align="center"><img src="https://github.com/Asem130/expense-tracker/assets/97855100/a61732af-878b-4933-b227-4267833bde0a" width="370" >
 <img src="https://github.com/Asem130/expense-tracker/assets/97855100/e0313475-c221-4f29-9caa-a69ab680b481" width="370" >
-<p <img src="https://github.com/Asem130/expense-tracker/assets/97855100/25756b69-e4bf-4b8a-a280-f8e636cb8439" width="370" >
+<img src="https://github.com/Asem130/expense-tracker/assets/97855100/25756b69-e4bf-4b8a-a280-f8e636cb8439" width="370" >
   
 </p>
 
