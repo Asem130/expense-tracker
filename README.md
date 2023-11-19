@@ -36,8 +36,3 @@ samples, guidance on mobile development, and a full API reference.
   
 </p>
 
-
-
-![Screenshot_1689432625](https://github.com/Asem130/expense-tracker/assets/97855100/a61732af-878b-4933-b227-4267833bde0a)
-![Screenshot_1689432635](https://github.com/Asem130/expense-tracker/assets/97855100/e0313475-c221-4f29-9caa-a69ab680b481)
-![Screenshot_1689432639](https://github.com/Asem130/expense-tracker/assets/97855100/25756b69-e4bf-4b8a-a280-f8e636cb8439)
